@@ -1,0 +1,18 @@
+{
+    "Description": "Security Onion",
+    "ImportTaskId": "import-ami-04548778fe6c9dbd4",
+    "Progress": "1",
+    "SnapshotDetails": [
+        {
+            "Description": "Security Onion OVA",
+            "DiskImageSize": 0.0,
+            "Format": "OVA",
+            "UserBucket": {
+                "S3Bucket": "national-infra",
+                "S3Key": "SecOnion2.ova"
+            }
+        }
+    ],
+    "Status": "active",
+    "StatusMessage": "pending"
+}
