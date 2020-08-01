@@ -1,0 +1,10 @@
+[
+  {
+    "Description": "Security Onion OVA",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "national-infra",
+        "S3Key": "SecOnion2.ova"
+    }
+  }
+]
